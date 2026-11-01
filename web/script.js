@@ -20,4 +20,4 @@ document.getElementById("contactForm").addEventListener("submit", function(event
 
     message.style.color = "green";
     message.textContent = "Form submitted successfully!";
-});
+}); 
